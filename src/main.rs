@@ -31,5 +31,5 @@ fn main() {
     if let Some(debug) = matches.get_one::<bool>("debug") {
         println!("Value for debug: {}", debug);
     }
-    // Continued program logic goes here... 
+    // Continued program logic goes here...  
 } 
